@@ -97,6 +97,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+../test/.gradle
+
 # Windows shortcuts
 *.lnk
 
